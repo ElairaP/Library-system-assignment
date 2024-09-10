@@ -13,4 +13,7 @@
 ![SQL code](https://github.com/ElairaP/Library-system-assignment/blob/main/A4%20sql%20screenshot.png)
 
 ## Example Outputs
-![Example output](https://github.com/ElairaP/Library-system-assignment/blob/main/A4%20example%20output%201.png)
+![Example output](https://github.com/ElairaP/Library-system-assignment/blob/main/A4%20example%20output%201.png)  
+
+![Example output 2](https://github.com/ElairaP/Library-system-assignment/blob/main/A4%20example%20output%202.png)  
+
